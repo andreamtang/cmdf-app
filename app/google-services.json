@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "51302165082",
+    "firebase_url": "https://food-plan-app.firebaseio.com",
+    "project_id": "food-plan-app",
+    "storage_bucket": "food-plan-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51302165082:android:0ee89975da4850cd",
+        "android_client_info": {
+          "package_name": "com.example.cmdf_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51302165082-k7thhclh62qionr7e2mu88r5am0eogn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZ9J_HdIfsPzk_ObtkmZ2RuFOEQAXCcE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
